@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Pavlo Artsabliuk]
+# 👋 Hi, I'm Pavlo Artsabliuk
 
 🚀 **Developer | Crypto Investor | Blockchain Enthusiast**  
 
