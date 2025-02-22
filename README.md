@@ -1,18 +1,23 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+# 👋 Hi, I'm [Pavlo Artsabliuk]
 
-<h1 align="center">Hi, I'm Pavlo Artsabliuk <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from Ukraine.</h3>
+🚀 **Developer | Crypto Investor | Blockchain Enthusiast**  
+
+## 🔥 What I Do
+- Write **clean, efficient code** to build high-performance applications  
+- **4+ years** investing in cryptocurrencies and exploring **Web3 technologies**  
+- Learning **blockchain development, DeFi, smart contracts, AI, and automation**  
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Solidity  
+- **Frameworks & Libraries:** React, Node.js, Hardhat, Web3.js  
+- **Databases:** PostgreSQL, MongoDB  
+- **Blockchain:** Ethereum, Solana, Binance Smart Chain  
+- **DevOps:** Docker, Git, CI/CD  
+
+## 💡 Interests
+- **Smart contract development** and blockchain infrastructure  
+- **Decentralized Finance (DeFi)** and the Web3 ecosystem  
+- **Algorithmic trading** and investment process automation  
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+💭 Open to collaborations on exciting projects. If you have an idea – let's talk! 🚀  
